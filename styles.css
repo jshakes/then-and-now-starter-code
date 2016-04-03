@@ -1,0 +1,29 @@
+body {
+  font-family: Verdana;
+  color: #333;
+}
+
+.body-wrapper {
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 2em;
+}
+
+h1 {
+  font-family: Georgia;
+  font-size: 3em;
+}
+
+.image-list {
+  list-style: none;
+  padding: 0;
+  margin: 2em 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  color: #00A7FF;
+}
